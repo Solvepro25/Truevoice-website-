@@ -1,0 +1,6 @@
+{
+  "name": "Truevoice",
+  "description": "Voice Authentication for Emerging Markets. Multilingual voice biometric authentication for banks, fintechs, telecoms, and governments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
