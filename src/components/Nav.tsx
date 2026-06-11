@@ -12,7 +12,7 @@ export default function Nav() {
         {/* LOGO */}
         <a href="#" className="flex items-center select-none">
           {/* <TruevoiceLogo lightBackground={true} height={38} className="block" /> */}
-          <img src="../assets/images/TruevoiceLogo.png" alt="Truevoice" width={145} />
+          <img src="/images/truevoicelogo.png" alt="Truevoice" width={145} />
         </a>
 
         {/* DESKTOP NAV LINKS */}
