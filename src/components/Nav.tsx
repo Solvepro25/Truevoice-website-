@@ -11,7 +11,8 @@ export default function Nav() {
       <div className="max-w-[1200px] mx-auto flex items-center justify-between h-[68px]">
         {/* LOGO */}
         <a href="#" className="flex items-center select-none">
-          <TruevoiceLogo lightBackground={true} height={38} className="block" />
+          {/* <TruevoiceLogo lightBackground={true} height={38} className="block" /> */}
+          <img src="../assets/images/TruevoiceLogo.png" alt="Truevoice" width={145} />
         </a>
 
         {/* DESKTOP NAV LINKS */}

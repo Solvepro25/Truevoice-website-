@@ -9,7 +9,8 @@ export default function Footer() {
         {/* BRAND COLUMN */}
         <div>
           <div className="mb-4">
-            <TruevoiceLogo lightBackground={false} height={40} className="block mb-3" />
+            {/* <TruevoiceLogo lightBackground={false} height={40} className="block mb-3" /> */}
+            <img src="../assets/images/WhiteLogo.png" alt="Truevoice" width={145} />
           </div>
           <p className="text-white/45 text-[13.5px] leading-relaxed mb-5 max-w-[280px]">
             The voice authentication infrastructure for emerging markets — making secure digital identity accessible to everyone, everywhere.
